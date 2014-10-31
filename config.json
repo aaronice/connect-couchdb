@@ -1,0 +1,11 @@
+{
+  "csv": {"file1":"C:/Users/zhuang/workspace/AttributeDictionaryUTF.csv",
+	  "file2":"C:/Users/zhuang/workspace/AttributeDictionaryNamesUTF.csv",
+	  "file3":"C:/Users/zhuang/workspace/Catalog.csv",
+	  "file4":"C:/Users/zhuang/workspace/CatalogEntryAttributeUTF.csv",
+	  "file5":"C:/Users/zhuang/workspace/CatalogEntryUTF.csv",
+	  "file6":"C:/Users/zhuang/workspace/CatalogGroupUTF.csv"
+  },
+  "db" : "test",
+  "chunk_size": 1
+}
